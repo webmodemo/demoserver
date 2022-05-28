@@ -12,4 +12,4 @@ numpy
 matplotlib
 
 The "runtime.txt" file specifies the version of python that will be used:
-python-3.6
+python-3.8
