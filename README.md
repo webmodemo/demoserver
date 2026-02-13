@@ -14,4 +14,4 @@ need, including the following for the default WebMO python scripts:
 - webmo
 
 The "runtime.txt" file specifies the programming environment that will be used:
-- python (which currently defaults to version 3.8)
+- python (which is currently specified as version 3.11)
