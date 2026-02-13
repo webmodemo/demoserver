@@ -10,6 +10,7 @@ The "requirements.txt" file lists all Python libraries that your notebooks
 need, including the following for the default WebMO python scripts:
 - numpy
 - matplotlib
+- scipy
 - webmo
 
 The "runtime.txt" file specifies the programming environment that will be used:
